@@ -1,5 +1,11 @@
 # projet-final
 
-#ok j'avais pas vu me reste 5 mois, site qui regroupe le truk des perruques + le truk autistme (site web plus facile du coup) +
+#ok refaire la présentation mais s'amuser ici, faut que ca marche
 
-#+le truk sur la pollution on fait un combo
+#en gros: 
+
+#soit faire avec sikit soit faire ton truk lais avec ton truk tu peux pas dire que c'est une ia et ca fait moins classe mais c toi qui l'a fait
+
+#on dit juste pic pollution ou pas pic pollution
+
+#ok t'as appris avec pikachu et dico et tout ce que tu devais pas faire, okok abondonne le tru kdes cheveux poru que pollution et quand j'aurai un taff j'apprendrai sikit et jfinierai my_profil
