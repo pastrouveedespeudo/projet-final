@@ -8,4 +8,4 @@
 
 #on dit juste pic pollution ou pas pic pollution
 
-#ok t'as appris avec pikachu et dico et tout ce que tu devais pas faire, okok abondonne le tru kdes cheveux poru que pollution et quand j'aurai un taff j'apprendrai sikit et jfinierai my_profil
+#et my_profil finir enfaite c presque fini faut juste rendre ca beau
